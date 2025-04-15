@@ -53,13 +53,16 @@
     <p>Bienvenue ! Je suis développeur solo et créateur de jeux mobiles pour Android. Mon objectif est de créer des expériences fun, accessibles et originales pour tous les joueurs.</p>
 
     <h2>Mes créations</h2>
+<h2>Captures d’écran</h2>
+<img src="images/screenshot1.jpg" alt="Capture d’écran 1" width="300">
+<img src="images/screenshot2.jpg" alt="Capture d’écran 2" width="300">
     <ul>
       <li><strong>Évolution Animale</strong> – <a href="https://play.google.com/store/apps/details?id=com.Kodamino.EvolutionAnimale" target="_blank">Voir sur le Play Store</a><br>
       Jeu d’évolution solo inspiré d’Agar.io. Grandis, mange, évolue et deviens l’animal dominant.</li>
     </ul>
 
     <h2>Contact</h2>
-    <p>Une question, une idée ou un bug à signaler ? Écris-moi à : <a href="mailto:ton.email@exemple.com">ton.email@exemple.com</a></p>
+    <p>Une question, une idée ou un bug à signaler ? Écris-moi à : <a href="kodaminogames@gmail.com">ton.email@exemple.com</a></p>
   </div>
 
   <footer>
