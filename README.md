@@ -60,7 +60,7 @@
     </ul>
 
     <h2>Contact</h2>
-    <p>Une question, une idée ou un bug à signaler ? Écris-moi à : <a href="mailto:kodamino@gmail.com">ton.email@exemple.com</a></p>
+    <p>Une question, une idée ou un bug à signaler ? Écris-moi à : <a href="kodaminogames@gmail.com">ton.email@exemple.com</a></p>
   </div>
 
   <footer>
